@@ -1,0 +1,2 @@
+PyGetWindow==0.0.9
+PyRect==0.2.0
